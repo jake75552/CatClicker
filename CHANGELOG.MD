@@ -3,7 +3,6 @@ Released the game.
 Added some buildings ig
 
 v.2
-Added more building and upgrades.
-Moved icons and added this changelog to github (lol)
+Added more building and upgrades, added this changelog to github lol .
 
 TO BE CONTINUED
