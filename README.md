@@ -1,4 +1,4 @@
-# CatClicker
+# CatClicker V.3
 for my game made with ortiel's idle game maker
 
 # Whats cat clicker?
