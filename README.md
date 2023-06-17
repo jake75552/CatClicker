@@ -12,3 +12,6 @@ In changelog.md.
 
 Please ask me any questions and ill answer them in this read me.
 ASK ME ON MY DISCORD: KITRthecat#0410
+
+# QABP (Questions asked by people)
+None currently.
